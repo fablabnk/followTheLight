@@ -1,5 +1,4 @@
-This repo is a quick start guide for project ambassadors and educators to get up and running quickly with the [Follow the Light]
-(https://www.notion.so/42wolfsburgberlin/Follow-the-Light-cfd6d5b28ad84da4ae6154757d6e9e80) project from the FabLab curriculum, so that they can support others.
+This repo is a quick start guide for project ambassadors and educators to get up and running quickly with the [Follow the Light](https://www.notion.so/42wolfsburgberlin/Follow-the-Light-cfd6d5b28ad84da4ae6154757d6e9e80) project from the FabLab curriculum, so that they can support others.
 
 In our training session we focussed on getting familiar with Arduino IDE and breadboarding simple circuits using two light sensors and one servo, where the servo tracks one way when light exceed a threshold on one sensor and the other way when it exceeds a threshold on the other sensor.
 
